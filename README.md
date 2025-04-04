@@ -1,4 +1,4 @@
-# 📱 Budget Familial iOS
+# 📱 Budget personnel iOS
 
 > Application **iOS ** pour gérer les **budgets mensuels**, suivre les **dépenses quotidiennes** et activer un **mode économique intelligent**.  
 > Développée avec ❤️ en SwiftUI + SwiftData.
@@ -28,16 +28,6 @@
   - Nom + Email modifiables
 - 🌓 **Mode clair/sombre** via réglages
 - ⚙️ Interface iOS 17 **moderne et fluide**
-
----
-
-## 🖼️ Aperçu de l’app *(à personnaliser avec images)*
-
-| Accueil 📋 | Détail 📈 | Statistiques 📊 |
-|-----------|----------|----------------|
-| ![Accueil](Assets/accueil.png) | ![Détail](Assets/detail.png) | ![Stats](Assets/stats.png) |
-
-> Place tes captures dans un dossier `/Assets/` et adapte les noms si besoin.
 
 ---
 
