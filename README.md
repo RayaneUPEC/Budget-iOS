@@ -8,7 +8,7 @@
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 ![Xcode](https://img.shields.io/badge/Xcode-15.3-blue)
 ![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey)
-![Status](https://img.shields.io/badge/Projet-Privé%20Familial-green)
+![Status](https://img.shields.io/badge/Projet-%20-green)
 
 ---
 
